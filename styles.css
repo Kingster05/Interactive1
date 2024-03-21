@@ -25,7 +25,7 @@ main {
     
 }
 
-/* Media query for smaller devices */
+/* Media query for smaller devices WAHAHAHAHAHAHHAAH*/
 @media only screen and (max-width: 600px) {
     body *, header, footer, nav,main{
         height: 20vh;
